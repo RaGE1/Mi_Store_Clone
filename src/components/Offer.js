@@ -1,5 +1,4 @@
 import React from 'react';
-i
 
 const Offer = ({src,index,link}) => {
   return (
