@@ -12,7 +12,6 @@ const Slider = ({start}) => {
                 className ="d-block w-100"
                 src={item}
                 alt={idx} />
-                <p>{item}</p>
             </Carousel.Item>
             
         ))}
