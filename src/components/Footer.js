@@ -108,7 +108,7 @@ const Footer = ({footer}) => {
                   
         </div>
         <div className="footerBorder">
-       <div> Copyright © 2010 - 2021 Xiaomi. All Rights Reserved</div>
+       <div> Lucky Copyright © 2010 - 2021 Xiaomi. All Rights Reserved</div>
         </div>
 
   </>);
